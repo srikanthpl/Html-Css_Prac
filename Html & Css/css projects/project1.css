@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding:0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
+li,ul,h1{
+    display: inline;
+}
+a{
+    color: gray;
+
+}
+a:hover{
+    color:white;
+    
+}
+.box{
+    width: 200px;
+    height: 300px;
+    border:solid;
+    border-color: black;
+    border-width: 3px;
+    display: inline-block;
+}
+.foods{
+    text-align: center;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+.ali{
+    margin-left: 11px;
+    
+}
+.sub{
+    width:13%;
+    height: 4%;
+    margin-left: 60px;
+    color: rgb(253, 46, 46);
+    background-color: rgb(255, 255, 0);
+    border: white 5px;
+
+}
+.li1{
+    color:grey;
+}
+
+.li1:hover{
+    color:white
+}
+
+
+    

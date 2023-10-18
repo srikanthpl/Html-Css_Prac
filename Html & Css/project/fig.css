@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.figu{
+    width: 100%;
+    height: 200px;
+    display: inline-flex;
+    position: relative;
+    padding: 150px;
+}
+.align{
+    text-align: inherit;
+}

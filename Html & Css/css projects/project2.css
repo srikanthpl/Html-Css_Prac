@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-align: center;
+    padding: 50px;
+}
+body{
+    text-align: center;
+    
+}
+.s1{
+    margin-right: 17px;
+}
+.s2{
+    margin-right: 15px;
+}
+.s3{
+    margin-left: 116px;
+    width: 167px;
+}
+
+
+
+footer{
+    text-align: center;
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 10px;
+}
